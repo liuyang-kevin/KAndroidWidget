@@ -10,17 +10,48 @@ package com.kevin.kandroidwidget;
 public final class R {
     public static final class attr {
     }
+    public static final class color {
+        public static int background=0x7f040000;
+        /**  字体颜色 
+         */
+        public static int black_script=0x7f040003;
+        /**  背景颜色 
+         */
+        public static int blue_background=0x7f04000a;
+        public static int blue_script=0x7f040005;
+        public static int blue_script_1=0x7f040009;
+        public static int dark_orange_background=0x7f04000d;
+        public static int darkblue_cell=0x7f040011;
+        public static int gray_background=0x7f04000b;
+        public static int gray_border=0x7f040013;
+        public static int gray_script=0x7f040004;
+        /**  日历用 
+         */
+        public static int lightblue_cell=0x7f040010;
+        public static int line=0x7f040002;
+        public static int orange_background=0x7f04000c;
+        public static int orange_script=0x7f040006;
+        public static int red_background=0x7f04000f;
+        public static int red_script=0x7f040008;
+        public static int title=0x7f040001;
+        /**  透明色
+         */
+        public static int transparent=0x7f040014;
+        public static int white_background=0x7f04000e;
+        public static int white_cell=0x7f040012;
+        public static int white_script=0x7f040007;
+    }
     public static final class drawable {
         public static int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static int aQuarterCircleButton1=0x7f060000;
+        public static int aQuarterCircleButton1=0x7f070000;
     }
     public static final class layout {
         public static int test_canvas=0x7f030000;
     }
     public static final class string {
-        public static int app_name=0x7f040000;
+        public static int app_name=0x7f050000;
     }
     public static final class style {
         /** 
@@ -44,10 +75,10 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static int AppBaseTheme=0x7f050000;
+        public static int AppBaseTheme=0x7f060000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static int AppTheme=0x7f050001;
+        public static int AppTheme=0x7f060001;
     }
 }

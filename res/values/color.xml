@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#f1f1f1</color>
+    <color name="title">#2c3a54</color>
+    <color name="line">#cccccc</color>
+    
+    <!-- 字体颜色 -->
+    <color name="black_script">#333333</color>
+    <color name="gray_script">#7e7e7e</color>
+    <color name="blue_script">#3a80b6</color>
+    <color name="orange_script">#ff9000</color>
+    <color name="white_script">#ffffff</color>
+    <color name="red_script">#ff0000</color>
+    <color name="blue_script_1">#2461b5</color>
+    
+    
+    <!-- 背景颜色 -->
+    <color name="blue_background">#4f90c3</color>
+    <color name="gray_background">#d2d2d2</color>
+    <color name="orange_background">#fdb32b</color>
+    <color name="dark_orange_background">#f97221</color>
+    <color name="white_background">#ffffff</color>
+    <color name="red_background">#d12c28</color>
+    
+    <!-- 日历用 -->
+    <color name="lightblue_cell">#dae4ec</color>
+    <color name="darkblue_cell">#2c3a54</color>
+    <color name="white_cell">#ffffff</color>
+    <color name="gray_border">#cccccc</color>
+    
+    <!-- 透明色-->
+    <color name="transparent">#00000000</color>
+
+</resources>
