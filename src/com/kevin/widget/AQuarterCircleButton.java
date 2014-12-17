@@ -13,8 +13,10 @@ import android.util.DisplayMetrics;
 import android.view.Display;
 import android.view.View;
 import android.view.View.MeasureSpec;
+import android.widget.Button;
+import android.widget.TextView;
 
-public class AQuarterCircleButton extends View {
+public class AQuarterCircleButton extends TextView {
 	/**
 	 * 
 	 * 	 *********
